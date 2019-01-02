@@ -1,0 +1,28 @@
+03/18/2018
+CS 260
+Programming Assignment 3
+Group 2
+
+Group Members:
+Konstantin Zelmanovich (Group Leader)
+Bao Dang
+Duy Le
+Chinh Nguyen
+
+Each group member has completed the following problems:
+
+1.	Konstantin Zelmanovich: 
+		Problem 1 (20 points) - openhash.py
+		Problem 2 (20 points) - closedhash.py
+2.	Bao Dang:
+		Problem 6 (30 points) - pot.py
+3.	Duy Le:
+		Problem 4 (20 points) - tries.py
+		Problem 8 (10 points) - dfs.py
+4.	Chinh Nguyen:
+		Problem 3 (20 points) - bst.py
+
+
+Everything works as expected. 
+
+For problem 3: trie.py, the input file is 'Alice-in-Wonderland.txt'

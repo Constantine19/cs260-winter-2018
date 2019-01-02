@@ -1,0 +1,22 @@
+
+Konstantin Zelmanovich
+CS 260 - Programming Assignment 2
+
+My files 
+	1. arraylist.py
+	2. lcrstree.py
+	3. levelorder.py
+	4. listconcat.py
+	5. loctree.py
+	6. mergelists.py
+	7. pointerlist.py
+	8. pointerqueue.py
+	9. postorder.py
+	10. preorder.py
+	11. timing.py
+	12. problems
+	13. README
+	14. Makefile
+	15. timing.pdf
+
+Post-Order Traversal method was not implemented, because I did not find anything related to that in book and it was late to email professor about that.
